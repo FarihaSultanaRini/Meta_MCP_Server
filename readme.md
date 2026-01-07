@@ -4,7 +4,6 @@
 
 This project provides an MCP server acting as an interface to the Meta Ads, enabling programmatic access to Meta Ads data and management features.
 
-<video controls width="1920" height="512" src="https://github.com/user-attachments/assets/c4a76dcf-cf5d-4a1d-b976-08165e880fe4">Your browser does not support the video tag.</video>
 
 
 
